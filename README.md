@@ -9,5 +9,5 @@ the student from mits college are intelligents
   - karnakar
   + swaroop
 3. preetham
-_ Chandra Sekhar _
+_Chandra Sekhar_
 ----------------
