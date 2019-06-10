@@ -1,11 +1,13 @@
 # Mits
 ## Sample project
 ### Front end nano degree
-** the student from mits college are intelligents **
+**the student from mits college are intelligents**
 the student from mits college are intelligents
-`peace'
+` peace '
 1. Chandra 
 2. gaffer
   - karnakar
   + swaroop
 3. preetham
+_Chandra Sekhar_
+----------------
